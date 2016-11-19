@@ -1,0 +1,13 @@
+{
+    "name": "morrislaptop/acf-field-type-header",
+    "description": "Select h1..h6 and heading text in one field",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Craig Morris",
+            "email": "cr@igmorr.is"
+        }
+    ],
+    "require": {}
+}
